@@ -77,6 +77,13 @@ register(
 )
 
 register(
+    id='MazeZ-v0',
+    entry_point='gym_maze.envs:MazeZ',
+    max_episode_steps=50,
+    nondeterministic=False
+)
+
+register(
     id='MazeT2-v0',
     entry_point='gym_maze.envs:MazeT2',
     max_episode_steps=50,
