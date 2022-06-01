@@ -63,6 +63,20 @@ register(
 )
 
 register(
+    id='MazeX-v0',
+    entry_point='gym_maze.envs:MazeX',
+    max_episode_steps=50,
+    nondeterministic=False
+)
+
+register(
+    id='MazeY-v0',
+    entry_point='gym_maze.envs:MazeY',
+    max_episode_steps=50,
+    nondeterministic=False
+)
+
+register(
     id='MazeT2-v0',
     entry_point='gym_maze.envs:MazeT2',
     max_episode_steps=50,
