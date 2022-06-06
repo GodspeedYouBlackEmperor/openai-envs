@@ -10,6 +10,7 @@ from gym_maze.envs.Maze7 import Maze7
 from gym_maze.envs.MazeX import MazeX
 from gym_maze.envs.MazeY import MazeY
 from gym_maze.envs.MazeZ import MazeZ
+from gym_maze.envs.MazeXYZ import MazeXYZ
 from gym_maze.envs.MazeT2 import MazeT2
 from gym_maze.envs.MazeT3 import MazeT3
 from gym_maze.envs.MazeT4 import MazeT4
