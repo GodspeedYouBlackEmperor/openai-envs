@@ -8,7 +8,8 @@ from gym_maze.envs.Maze5 import Maze5
 from gym_maze.envs.Maze6 import Maze6
 from gym_maze.envs.Maze7 import Maze7
 from gym_maze.envs.MazeX import MazeX
-from gym_maze.envs.MazeY import MazeY
+from gym_maze.envs.MazeX1 import MazeX1
+from gym_maze.envs.MazeX2 import MazeX2
 from gym_maze.envs.MazeZ import MazeZ
 from gym_maze.envs.MazeXYZ import MazeXYZ
 from gym_maze.envs.MazeT2 import MazeT2
